@@ -14,3 +14,9 @@
 
 # Image
 ![wikipedia](https://cdn.mos.cms.futurecdn.net/xcLR5HMU2kxskdAy3ZVuTf-1200-80.jpg)
+
+
+# Code Block
+``` javascript
+var myVar = "Hello, world!";
+```
